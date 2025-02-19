@@ -2,7 +2,7 @@
   <img src="../assets/logo.svg" width="315px" align="center" alt="Recombee" />
   <br/><br/>
   <p align="center">
-    <strong>AI-Powered Personalized Recommendations</strong>
+    <strong>AI-Powered Personalized Recommendations & Search</strong>
   </p>
 </div>
 
